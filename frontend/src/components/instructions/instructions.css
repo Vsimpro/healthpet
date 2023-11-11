@@ -1,11 +1,17 @@
 .instructions {
     width: 315px;
-    height: 280px;
+    height: auto;
     background-color: #d5bdff;
-    xborder-radius: 15px;
     padding-left: 15px;
     padding-right: 15px;
     color: black;
     box-shadow: 9px 9px 0px #ABABAB;
     border: 2px solid #ababab;
+}
+
+@media all and (orientation:portrait) {
+    .instructions {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }

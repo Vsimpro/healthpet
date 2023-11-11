@@ -2,7 +2,6 @@
     width: 200px;
     height: 280px;
     background-color: #FADF96;
-    xborder-radius: 15px;
     border: 2px solid #ababab;
     text-align: center;
     padding-top: 10px;
@@ -15,4 +14,11 @@ button {
     width: 90%;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+@media all and (orientation:portrait) {
+    .demos {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }

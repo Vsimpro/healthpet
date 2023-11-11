@@ -7,3 +7,10 @@
     border: 1px solid #303030;
     overflow: hidden;
 }
+
+@media all and (orientation:portrait) {
+    .container {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
