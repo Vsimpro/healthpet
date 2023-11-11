@@ -1,0 +1,18 @@
+.stepsbar_top {
+    height: 3px;
+    width: 280px;
+    background-color: #f2f2f2;
+    margin-right: auto;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+
+.stepsbar_bottom {
+    height: 3px;
+    width: 0px;
+    background-color: #F87977;
+    margin-right: auto;
+    margin-left: 10px;
+    border-radius: 3px;
+    margin-top: -3px;
+}

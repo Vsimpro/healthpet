@@ -1,0 +1,14 @@
+.character {
+    width: 30%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#character {
+    width: auto;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}

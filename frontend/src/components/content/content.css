@@ -1,0 +1,13 @@
+.content {
+    margin-top:   2%;
+    margin-left:  5%;
+    margin-right: 5%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+body {
+    font-family: monospace;
+    background-size: 40px 40px;
+    background-image: radial-gradient(circle, #000000 1px, rgba(0, 0, 0, 0) 1px);
+}

@@ -1,0 +1,12 @@
+.environment {
+    height: 235px;
+    width: 310px;
+    background-image: url('/public/images/living_room.png');
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+}
